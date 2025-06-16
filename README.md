@@ -63,7 +63,7 @@ Sí. Puedes usarlo libremente. Agradezco estrellas ⭐ y feedback en GitHub.
 ## 💬 Contacto y soporte
 
 ¿Ideas, errores o sugerencias?   
-Puedes escribirme a mi Whatssap que estara en pagina web (https://bots-twitch.web.app/)
+Puedes escribirme a mi Whatssap que estara en [Pagina Web](https://bots-twitch.web.app/)
 
 ---
 
@@ -73,7 +73,7 @@ Si te gustó este proyecto, puedes:
 
 - Darle una ⭐ en GitHub
 - Compartirlo con otros streamers
-- Invitarme un café ☕ (https://paypal.me/FSalinasAyala)
+- [Invitarme un café](https://paypal.me/FSalinasAyala) ☕
 
 ---
 
