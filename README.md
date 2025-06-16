@@ -20,7 +20,7 @@ Ideal para creadores que hacen directos en múltiples plataformas y quieren una 
 
 ## 🛠️ ¿Cómo se usa?
 
-1. Descarga el ejecutable más reciente desde la sección [Releases]([https://github.com/Fernando1106/chat_unificado/releases/tag/v1.1-Beta]).
+1. Descarga el ejecutable más reciente desde la sección [Releases](https://github.com/Fernando1106/chat_unificado/releases/tag/v1.1-Beta).
 2. Ejecuta el programa.
 3. Sigue las instrucciones que estan en la pagina.
 4. ¡Listo! Tu chat unificado está en vivo 🎉
@@ -40,7 +40,7 @@ Ideal para creadores que hacen directos en múltiples plataformas y quieren una 
 
 ## 📦 Descarga
 
-👉 Ve a [Releases](https://github.com/tu-usuario/tu-repo/releases) y descarga la versión más reciente:  
+👉 Ve a [Releases](https://github.com/Fernando1106/chat_unificado/releases/tag/v1.1-Beta) y descarga la versión más reciente:  
 **`ChatUnificado-v1.0.0.exe`**
 
 > ⚠️ En Windows puede pedir permiso al ejecutarse por primera vez (es seguro).
