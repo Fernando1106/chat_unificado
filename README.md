@@ -38,15 +38,6 @@ Ideal para creadores que hacen directos en múltiples plataformas y quieren una 
 
 ---
 
-## 📦 Descarga
-
-👉 Ve a [Releases](https://github.com/Fernando1106/chat_unificado/releases/tag/v1.1-Beta) y descarga la versión más reciente:  
-**`ChatUnificado-v1.0.0.exe`**
-
-> ⚠️ En Windows puede pedir permiso al ejecutarse por primera vez (es seguro).
-
----
-
 ## 🧠 Preguntas frecuentes
 
 **¿Necesito tener OBS?**  
