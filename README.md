@@ -1,4 +1,4 @@
-# 🎮 Chat Unificado TikTok + Twitch
+# 🎮 Chat Unificado TikTok + Twitch – by SOLVEXBOT
 
 ¡Dale nivel PRO a tus streams con este **Chat Unificado** para **TikTok** y **Twitch**!  
 Convierte ambos chats en uno solo, con un diseño espectacular para mostrar en pantalla mediante OBS.
