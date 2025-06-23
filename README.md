@@ -1,6 +1,6 @@
-# 🎮 Chat Unificado TikTok + Twitch – by SOLVEXBOT
+# 🎮 Chat Unificado TikTok + Twitch + Kick – by SOLVEXBOT
 
-¡Dale nivel PRO a tus streams con este **Chat Unificado** para **TikTok** y **Twitch**!  
+¡Dale nivel PRO a tus streams con este **Chat Unificado** para **TikTok** / **Twitch** / **Kick**!  
 Convierte ambos chats en uno solo, con un diseño espectacular para mostrar en pantalla mediante OBS.
 
 ---
@@ -8,7 +8,7 @@ Convierte ambos chats en uno solo, con un diseño espectacular para mostrar en p
 ## 🚀 ¿Qué es esto?
 
 Una herramienta ligera y potente que te permite:
-- Ver mensajes de TikTok y Twitch en un solo lugar.
+- Ver mensajes de TikTok / Twitch / Kick en un solo lugar.
 - Mostrar el chat en tu stream (modo overlay).
 - Personalización visual estilo gamer / neón.
 - Compatibilidad con OBS (navegador fuente).
@@ -43,8 +43,8 @@ Ideal para creadores que hacen directos en múltiples plataformas y quieren una 
 **¿Necesito tener OBS?**  
 Sí, este chat está pensado para ser usado como fuente de navegador en OBS u otro software de streaming.
 
-**¿Funciona con Kick o YouTube?**  
-Por ahora solo TikTok y Twitch, pero más plataformas vienen pronto 👀
+**¿Funciona con YouTube?**  
+Por ahora solo TikTok / Twitch y Kick, pero más plataformas vienen pronto 👀
 
 **¿Es gratis?**  
 Sí. Puedes usarlo libremente. Agradezco estrellas ⭐ y feedback en GitHub.
